@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>first on Drajad</title>
-    <link>https://drajad.netlify.com/tags/first/</link>
+    <link>https://drajad.github.io/tags/first/</link>
     <description>Recent content in first on Drajad</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 15 Sep 2020 11:30:03 +0000</lastBuildDate><atom:link href="https://drajad.netlify.com/tags/first/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 15 Sep 2020 11:30:03 +0000</lastBuildDate><atom:link href="https://drajad.github.io/tags/first/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My 1st post</title>
-      <link>https://drajad.netlify.com/posts/my-first-post/</link>
+      <link>https://drajad.github.io/posts/my-first-post/</link>
       <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
       
-      <guid>https://drajad.netlify.com/posts/my-first-post/</guid>
+      <guid>https://drajad.github.io/posts/my-first-post/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sit amet nulla sapien. Nunc faucibus enim ac nunc fermentum molestie ac eget quam. Duis euismod maximus orci, quis consectetur nulla imperdiet eu. Sed libero risus, convallis nec tincidunt at, mattis at nisl. Nullam tristique feugiat neque. Ut scelerisque nisl sed odio interdum commodo. Phasellus mattis placerat ligula vitae venenatis. Nam sit amet dapibus augue. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.</description>
     </item>
     

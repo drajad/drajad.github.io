@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://drajad.netlify.com/sitemap.xml
